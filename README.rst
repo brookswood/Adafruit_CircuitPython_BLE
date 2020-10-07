@@ -9,6 +9,7 @@ Introduction
     :target: https://adafru.it/discord
     :alt: Discord
 
+![Build CI](https://github.com/brookswood/Adafruit_CircuitPython_BLE/workflows/Build%20CI/badge.svg)
 .. image:: https://github.com/adafruit/Adafruit_CircuitPython_ble/workflows/Build%20CI/badge.svg
     :target: https://github.com/adafruit/Adafruit_CircuitPython_ble/actions
     :alt: Build Status
