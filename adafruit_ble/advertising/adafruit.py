@@ -41,7 +41,7 @@ __version__ = "0.0.0-auto.0"
 __repo__ = "https://github.com/adafruit/Adafruit_CircuitPython_BLE.git"
 
 _MANUFACTURING_DATA_ADT = const(0xFF)
-_ADAFRUIT_COMPANY_ID = const(0x0822)
+_ADAFRUIT_COMPANY_ID = const(0x0F41)
 _COLOR_DATA_ID = const(0x0000)
 
 
